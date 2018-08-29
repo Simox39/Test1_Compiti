@@ -10,7 +10,7 @@ namespace EvolvePPConsole
     {
         static void Main(string[] args)
         {
-            
+
         }
     }
 }
